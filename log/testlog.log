@@ -1,0 +1,36 @@
+2021-03-28 10:28:52,959 - ebanking -INFO - URL is opened
+2021-03-28 10:35:04,613 - ebanking -INFO - URL is opened
+2021-03-28 10:35:05,151 - ebanking -INFO - Entered username
+2021-03-28 10:35:05,305 - ebanking -INFO - Entered password
+2021-03-28 10:51:46,255 - ebanking -INFO - URL is opened
+2021-03-28 10:51:46,529 - ebanking -INFO - Entered username
+2021-03-28 10:51:46,625 - ebanking -INFO - Entered password
+2021-03-28 10:56:18,653 - ebanking -INFO - URL is opened
+2021-03-28 10:56:18,827 - ebanking -INFO - Entered username
+2021-03-28 10:56:18,914 - ebanking -INFO - Entered password
+2021-03-28 10:56:21,065 - ebanking -INFO - TC passed
+2021-03-28 10:57:47,599 - ebanking -INFO - URL is opened
+2021-03-28 10:57:47,835 - ebanking -INFO - Entered username
+2021-03-28 10:57:47,930 - ebanking -INFO - Entered password
+2021-03-28 11:38:55,039 - ebanking -INFO - URL is opened
+2021-03-28 11:38:55,229 - ebanking -INFO - Entered username
+2021-03-28 11:38:55,321 - ebanking -INFO - Entered password
+2021-03-28 11:38:59,605 - ebanking -INFO - TC passed
+2021-03-28 12:09:25,881 - ebanking -INFO - URL is opened
+2021-03-28 12:09:26,273 - ebanking -INFO - Entered username
+2021-03-28 12:09:26,385 - ebanking -INFO - Entered password
+2021-03-28 12:09:28,284 - ebanking -INFO - TC passed
+2021-03-28 23:04:41,175 - ebanking -INFO - URL is opened
+2021-03-28 23:04:43,968 - ebanking -INFO - Entered username
+2021-03-28 23:04:44,148 - ebanking -INFO - Entered password
+2021-03-28 23:04:48,150 - ebanking -INFO - TC passed
+2021-03-28 23:05:04,792 - ebanking -INFO - User name is provided
+2021-03-28 23:05:04,903 - ebanking -INFO - Passsword is provided
+2021-03-28 23:05:11,649 - ebanking -INFO - providing customer details....
+2021-03-28 23:20:00,664 - ebanking -INFO - URL is opened
+2021-03-28 23:20:00,864 - ebanking -INFO - Entered username
+2021-03-28 23:20:00,960 - ebanking -INFO - Entered password
+2021-03-28 23:20:04,567 - ebanking -INFO - TC passed
+2021-03-28 23:20:15,009 - ebanking -INFO - User name is provided
+2021-03-28 23:20:15,111 - ebanking -INFO - Passsword is provided
+2021-03-28 23:20:21,674 - ebanking -INFO - providing customer details....
