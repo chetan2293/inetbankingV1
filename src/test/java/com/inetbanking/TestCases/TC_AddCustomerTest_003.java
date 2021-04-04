@@ -42,7 +42,7 @@ public class TC_AddCustomerTest_003 extends BaseClass
 		
 		String email=randomestring()+"@gmail.com";
 		addcust.custemailid(email);
-		addcust.custpassword("abcdef");
+		//addcust.custpassword("abcdef");
 		addcust.custsubmit();
 		
 		Thread.sleep(3000);
@@ -51,6 +51,7 @@ public class TC_AddCustomerTest_003 extends BaseClass
 		
 		boolean res=driver.getPageSource().contains("Customer Registered Successfully!!!");
 		
+		Thread.sleep(3000);
 		if(res==true)
 		{
 			Assert.assertTrue(true);

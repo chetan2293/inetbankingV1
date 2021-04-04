@@ -109,9 +109,9 @@ public class AddCustomerPage {
 		txtemailid.sendKeys(cemailid);
 	}
 
-	public void custpassword(String cpassword) {
+	/*public void custpassword(String cpassword) {
 		txtpassword.sendKeys(cpassword);
-	}
+	}*/
 
 	public void custsubmit() {
 		btnSubmit.click();
